@@ -56,7 +56,7 @@ This project was submitted to the Football Analytics Blitz competition and cover
 3. When losing late in the game, returning is almost always the best option
 
 **Rule Change Verdict**
-- Keep the kick return — it's exciting and injury data does not justify eliminating it
+- Keep the kick return: it's exciting and injury data does not justify eliminating it
 - The Dynamic Kickoff has effectively eliminated unnecessary non-return injuries
 - Further study warranted on the relationship between hang time and injury severity
 
